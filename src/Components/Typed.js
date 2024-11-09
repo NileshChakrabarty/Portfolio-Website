@@ -17,4 +17,4 @@ const Typed = () => {
   )
 }
 
-export default Typed
+export default Typed;
