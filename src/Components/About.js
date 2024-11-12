@@ -12,7 +12,7 @@ const About = () => {
           <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
           <p>
             Hi, my name is <b>Nilesh Chakrabarty</b>, and I am from West Bengal, India.
-            I'm a <b>Front-End Developer</b> studying <b>Artificial Intelligence at Newton School Of Technology</b>.
+            I'm a pursuing <b>B.Tech</b> in <b>Computer Science and Artificial Intelligence</b> at <b>Newton School Of Technology</b>.
             <br /><br />
             I enjoy creating efficient and user-friendly applications. Check out my projects in the portfolio section.
             <br /><br />
