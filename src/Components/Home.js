@@ -29,7 +29,7 @@ const Home = () => {
         <div className='AboutText'>
           <h1 className='AboutTextHeading'>Brief <b>introduction</b></h1>
           <p>
-            I am passionate web developer with a focus on creating engaging, user-centered experiences through responsive design and modern web technologies.
+            I am a passionate web developer with a focus on creating engaging, user-centered experiences through responsive design and modern web technologies.
             I have experience in <b>Python</b>, <b>JavaScript</b>, and <b>React</b>, and enjoy working on front-end and full-stack projects.
           </p>
 
